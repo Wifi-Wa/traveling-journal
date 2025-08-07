@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>电子漂流本</title>
+</head>
+<body>
+  <h1>💬 电子漂流本留言墙</h1>
+  <p>💬 在这里你可以分享你与主/你与团契/读经祷告的的日常
+💬 也可以是见证/感动和感恩的点</p>
+  <script src="https://giscus.app/client.js"
+        data-repo="Wifi-Wa/traveling-journal"
+        data-repo-id="R_kgDOPZMwxQ"
+        data-category="General"
+        data-category-id="DIC_kwDOPZMwxc4Ct4DV"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
+
+</body>
+</html>
